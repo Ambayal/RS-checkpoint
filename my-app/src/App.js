@@ -5,7 +5,7 @@ class App extends Component {
     person: {
       fullName: 'John Doe',
       bio: 'I am a React developer.',
-      imgSrc: 'https://example.com/image.jpg', // Replace with the actual image source
+      imgSrc: 'https://media.sudouest.fr/12521551/1000x500/98269212.jpg?v=1665169767', // Replace with the actual image source
       profession: 'Web Developer',
     },
     show: false,
